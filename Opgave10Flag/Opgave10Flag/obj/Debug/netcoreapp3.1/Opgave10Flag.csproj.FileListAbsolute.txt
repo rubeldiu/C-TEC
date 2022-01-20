@@ -1,0 +1,14 @@
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Opgave10Flag\Opgave10Flag\bin\Debug\netcoreapp3.1\Opgave10Flag.exe
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Opgave10Flag\Opgave10Flag\bin\Debug\netcoreapp3.1\Opgave10Flag.deps.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Opgave10Flag\Opgave10Flag\bin\Debug\netcoreapp3.1\Opgave10Flag.runtimeconfig.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Opgave10Flag\Opgave10Flag\bin\Debug\netcoreapp3.1\Opgave10Flag.runtimeconfig.dev.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Opgave10Flag\Opgave10Flag\bin\Debug\netcoreapp3.1\Opgave10Flag.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Opgave10Flag\Opgave10Flag\bin\Debug\netcoreapp3.1\Opgave10Flag.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Opgave10Flag\Opgave10Flag\obj\Debug\netcoreapp3.1\Opgave10Flag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Opgave10Flag\Opgave10Flag\obj\Debug\netcoreapp3.1\Opgave10Flag.AssemblyInfoInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Opgave10Flag\Opgave10Flag\obj\Debug\netcoreapp3.1\Opgave10Flag.AssemblyInfo.cs
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Opgave10Flag\Opgave10Flag\obj\Debug\netcoreapp3.1\Opgave10Flag.csproj.CoreCompileInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Opgave10Flag\Opgave10Flag\obj\Debug\netcoreapp3.1\Opgave10Flag.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Opgave10Flag\Opgave10Flag\obj\Debug\netcoreapp3.1\Opgave10Flag.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Opgave10Flag\Opgave10Flag\obj\Debug\netcoreapp3.1\Opgave10Flag.genruntimeconfig.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Opgave10Flag\Opgave10Flag\obj\Debug\netcoreapp3.1\Opgave10Flag.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\ArrayDemo\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.exe
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\ArrayDemo\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.deps.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\ArrayDemo\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.runtimeconfig.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\ArrayDemo\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.runtimeconfig.dev.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\ArrayDemo\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\ArrayDemo\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\ArrayDemo\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\ArrayDemo\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.AssemblyInfoInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\ArrayDemo\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.AssemblyInfo.cs
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\ArrayDemo\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.csproj.CoreCompileInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\ArrayDemo\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\ArrayDemo\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\ArrayDemo\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.genruntimeconfig.cache

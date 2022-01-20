@@ -1,0 +1,13 @@
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TestOpgaveWhile\TestOpgaveWhile\bin\Debug\netcoreapp3.1\TestOpgaveWhile.exe
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TestOpgaveWhile\TestOpgaveWhile\bin\Debug\netcoreapp3.1\TestOpgaveWhile.deps.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TestOpgaveWhile\TestOpgaveWhile\bin\Debug\netcoreapp3.1\TestOpgaveWhile.runtimeconfig.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TestOpgaveWhile\TestOpgaveWhile\bin\Debug\netcoreapp3.1\TestOpgaveWhile.runtimeconfig.dev.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TestOpgaveWhile\TestOpgaveWhile\bin\Debug\netcoreapp3.1\TestOpgaveWhile.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TestOpgaveWhile\TestOpgaveWhile\bin\Debug\netcoreapp3.1\TestOpgaveWhile.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TestOpgaveWhile\TestOpgaveWhile\obj\Debug\netcoreapp3.1\TestOpgaveWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TestOpgaveWhile\TestOpgaveWhile\obj\Debug\netcoreapp3.1\TestOpgaveWhile.AssemblyInfoInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TestOpgaveWhile\TestOpgaveWhile\obj\Debug\netcoreapp3.1\TestOpgaveWhile.AssemblyInfo.cs
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TestOpgaveWhile\TestOpgaveWhile\obj\Debug\netcoreapp3.1\TestOpgaveWhile.csproj.CoreCompileInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TestOpgaveWhile\TestOpgaveWhile\obj\Debug\netcoreapp3.1\TestOpgaveWhile.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TestOpgaveWhile\TestOpgaveWhile\obj\Debug\netcoreapp3.1\TestOpgaveWhile.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TestOpgaveWhile\TestOpgaveWhile\obj\Debug\netcoreapp3.1\TestOpgaveWhile.genruntimeconfig.cache

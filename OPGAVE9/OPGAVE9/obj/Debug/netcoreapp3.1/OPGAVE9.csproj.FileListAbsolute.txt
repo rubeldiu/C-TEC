@@ -1,0 +1,13 @@
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE9\OPGAVE9\bin\Debug\netcoreapp3.1\OPGAVE9.exe
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE9\OPGAVE9\bin\Debug\netcoreapp3.1\OPGAVE9.deps.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE9\OPGAVE9\bin\Debug\netcoreapp3.1\OPGAVE9.runtimeconfig.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE9\OPGAVE9\bin\Debug\netcoreapp3.1\OPGAVE9.runtimeconfig.dev.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE9\OPGAVE9\bin\Debug\netcoreapp3.1\OPGAVE9.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE9\OPGAVE9\bin\Debug\netcoreapp3.1\OPGAVE9.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE9\OPGAVE9\obj\Debug\netcoreapp3.1\OPGAVE9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE9\OPGAVE9\obj\Debug\netcoreapp3.1\OPGAVE9.AssemblyInfoInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE9\OPGAVE9\obj\Debug\netcoreapp3.1\OPGAVE9.AssemblyInfo.cs
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE9\OPGAVE9\obj\Debug\netcoreapp3.1\OPGAVE9.csproj.CoreCompileInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE9\OPGAVE9\obj\Debug\netcoreapp3.1\OPGAVE9.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE9\OPGAVE9\obj\Debug\netcoreapp3.1\OPGAVE9.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE9\OPGAVE9\obj\Debug\netcoreapp3.1\OPGAVE9.genruntimeconfig.cache

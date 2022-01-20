@@ -1,0 +1,14 @@
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OpgaveFile\OpgaveFile\bin\Debug\netcoreapp3.1\OpgaveFile.exe
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OpgaveFile\OpgaveFile\bin\Debug\netcoreapp3.1\OpgaveFile.deps.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OpgaveFile\OpgaveFile\bin\Debug\netcoreapp3.1\OpgaveFile.runtimeconfig.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OpgaveFile\OpgaveFile\bin\Debug\netcoreapp3.1\OpgaveFile.runtimeconfig.dev.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OpgaveFile\OpgaveFile\bin\Debug\netcoreapp3.1\OpgaveFile.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OpgaveFile\OpgaveFile\bin\Debug\netcoreapp3.1\OpgaveFile.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OpgaveFile\OpgaveFile\obj\Debug\netcoreapp3.1\OpgaveFile.csproj.AssemblyReference.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OpgaveFile\OpgaveFile\obj\Debug\netcoreapp3.1\OpgaveFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OpgaveFile\OpgaveFile\obj\Debug\netcoreapp3.1\OpgaveFile.AssemblyInfoInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OpgaveFile\OpgaveFile\obj\Debug\netcoreapp3.1\OpgaveFile.AssemblyInfo.cs
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OpgaveFile\OpgaveFile\obj\Debug\netcoreapp3.1\OpgaveFile.csproj.CoreCompileInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OpgaveFile\OpgaveFile\obj\Debug\netcoreapp3.1\OpgaveFile.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OpgaveFile\OpgaveFile\obj\Debug\netcoreapp3.1\OpgaveFile.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OpgaveFile\OpgaveFile\obj\Debug\netcoreapp3.1\OpgaveFile.genruntimeconfig.cache

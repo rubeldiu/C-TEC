@@ -1,0 +1,13 @@
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Position\Position\bin\Debug\netcoreapp3.1\Position.exe
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Position\Position\bin\Debug\netcoreapp3.1\Position.deps.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Position\Position\bin\Debug\netcoreapp3.1\Position.runtimeconfig.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Position\Position\bin\Debug\netcoreapp3.1\Position.runtimeconfig.dev.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Position\Position\bin\Debug\netcoreapp3.1\Position.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Position\Position\bin\Debug\netcoreapp3.1\Position.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Position\Position\obj\Debug\netcoreapp3.1\Position.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Position\Position\obj\Debug\netcoreapp3.1\Position.AssemblyInfoInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Position\Position\obj\Debug\netcoreapp3.1\Position.AssemblyInfo.cs
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Position\Position\obj\Debug\netcoreapp3.1\Position.csproj.CoreCompileInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Position\Position\obj\Debug\netcoreapp3.1\Position.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Position\Position\obj\Debug\netcoreapp3.1\Position.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Position\Position\obj\Debug\netcoreapp3.1\Position.genruntimeconfig.cache

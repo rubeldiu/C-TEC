@@ -1,0 +1,13 @@
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Temperaturomregning\Temperaturomregning\bin\Debug\netcoreapp3.1\Temperaturomregning.exe
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Temperaturomregning\Temperaturomregning\bin\Debug\netcoreapp3.1\Temperaturomregning.deps.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Temperaturomregning\Temperaturomregning\bin\Debug\netcoreapp3.1\Temperaturomregning.runtimeconfig.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Temperaturomregning\Temperaturomregning\bin\Debug\netcoreapp3.1\Temperaturomregning.runtimeconfig.dev.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Temperaturomregning\Temperaturomregning\bin\Debug\netcoreapp3.1\Temperaturomregning.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Temperaturomregning\Temperaturomregning\bin\Debug\netcoreapp3.1\Temperaturomregning.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Temperaturomregning\Temperaturomregning\obj\Debug\netcoreapp3.1\Temperaturomregning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Temperaturomregning\Temperaturomregning\obj\Debug\netcoreapp3.1\Temperaturomregning.AssemblyInfoInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Temperaturomregning\Temperaturomregning\obj\Debug\netcoreapp3.1\Temperaturomregning.AssemblyInfo.cs
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Temperaturomregning\Temperaturomregning\obj\Debug\netcoreapp3.1\Temperaturomregning.csproj.CoreCompileInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Temperaturomregning\Temperaturomregning\obj\Debug\netcoreapp3.1\Temperaturomregning.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Temperaturomregning\Temperaturomregning\obj\Debug\netcoreapp3.1\Temperaturomregning.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Temperaturomregning\Temperaturomregning\obj\Debug\netcoreapp3.1\Temperaturomregning.genruntimeconfig.cache

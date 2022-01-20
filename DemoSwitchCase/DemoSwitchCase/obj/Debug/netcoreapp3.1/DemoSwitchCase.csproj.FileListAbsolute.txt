@@ -1,0 +1,14 @@
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoSwitchCase\DemoSwitchCase\bin\Debug\netcoreapp3.1\DemoSwitchCase.exe
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoSwitchCase\DemoSwitchCase\bin\Debug\netcoreapp3.1\DemoSwitchCase.deps.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoSwitchCase\DemoSwitchCase\bin\Debug\netcoreapp3.1\DemoSwitchCase.runtimeconfig.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoSwitchCase\DemoSwitchCase\bin\Debug\netcoreapp3.1\DemoSwitchCase.runtimeconfig.dev.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoSwitchCase\DemoSwitchCase\bin\Debug\netcoreapp3.1\DemoSwitchCase.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoSwitchCase\DemoSwitchCase\bin\Debug\netcoreapp3.1\DemoSwitchCase.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoSwitchCase\DemoSwitchCase\obj\Debug\netcoreapp3.1\DemoSwitchCase.csproj.AssemblyReference.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoSwitchCase\DemoSwitchCase\obj\Debug\netcoreapp3.1\DemoSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoSwitchCase\DemoSwitchCase\obj\Debug\netcoreapp3.1\DemoSwitchCase.AssemblyInfoInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoSwitchCase\DemoSwitchCase\obj\Debug\netcoreapp3.1\DemoSwitchCase.AssemblyInfo.cs
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoSwitchCase\DemoSwitchCase\obj\Debug\netcoreapp3.1\DemoSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoSwitchCase\DemoSwitchCase\obj\Debug\netcoreapp3.1\DemoSwitchCase.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoSwitchCase\DemoSwitchCase\obj\Debug\netcoreapp3.1\DemoSwitchCase.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoSwitchCase\DemoSwitchCase\obj\Debug\netcoreapp3.1\DemoSwitchCase.genruntimeconfig.cache

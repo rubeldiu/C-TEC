@@ -1,0 +1,14 @@
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TeoriOpgave\TeoriOpgave\bin\Debug\netcoreapp3.1\TeoriOpgave.exe
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TeoriOpgave\TeoriOpgave\bin\Debug\netcoreapp3.1\TeoriOpgave.deps.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TeoriOpgave\TeoriOpgave\bin\Debug\netcoreapp3.1\TeoriOpgave.runtimeconfig.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TeoriOpgave\TeoriOpgave\bin\Debug\netcoreapp3.1\TeoriOpgave.runtimeconfig.dev.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TeoriOpgave\TeoriOpgave\bin\Debug\netcoreapp3.1\TeoriOpgave.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TeoriOpgave\TeoriOpgave\bin\Debug\netcoreapp3.1\TeoriOpgave.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TeoriOpgave\TeoriOpgave\obj\Debug\netcoreapp3.1\TeoriOpgave.csproj.AssemblyReference.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TeoriOpgave\TeoriOpgave\obj\Debug\netcoreapp3.1\TeoriOpgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TeoriOpgave\TeoriOpgave\obj\Debug\netcoreapp3.1\TeoriOpgave.AssemblyInfoInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TeoriOpgave\TeoriOpgave\obj\Debug\netcoreapp3.1\TeoriOpgave.AssemblyInfo.cs
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TeoriOpgave\TeoriOpgave\obj\Debug\netcoreapp3.1\TeoriOpgave.csproj.CoreCompileInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TeoriOpgave\TeoriOpgave\obj\Debug\netcoreapp3.1\TeoriOpgave.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TeoriOpgave\TeoriOpgave\obj\Debug\netcoreapp3.1\TeoriOpgave.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TeoriOpgave\TeoriOpgave\obj\Debug\netcoreapp3.1\TeoriOpgave.genruntimeconfig.cache

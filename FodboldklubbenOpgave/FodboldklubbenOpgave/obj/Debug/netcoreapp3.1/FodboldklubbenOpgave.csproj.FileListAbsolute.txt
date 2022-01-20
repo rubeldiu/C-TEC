@@ -1,0 +1,14 @@
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\FodboldklubbenOpgave\FodboldklubbenOpgave\obj\Debug\netcoreapp3.1\FodboldklubbenOpgave.csproj.AssemblyReference.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\FodboldklubbenOpgave\FodboldklubbenOpgave\obj\Debug\netcoreapp3.1\FodboldklubbenOpgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\FodboldklubbenOpgave\FodboldklubbenOpgave\obj\Debug\netcoreapp3.1\FodboldklubbenOpgave.AssemblyInfoInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\FodboldklubbenOpgave\FodboldklubbenOpgave\obj\Debug\netcoreapp3.1\FodboldklubbenOpgave.AssemblyInfo.cs
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\FodboldklubbenOpgave\FodboldklubbenOpgave\obj\Debug\netcoreapp3.1\FodboldklubbenOpgave.csproj.CoreCompileInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\FodboldklubbenOpgave\FodboldklubbenOpgave\bin\Debug\netcoreapp3.1\FodboldklubbenOpgave.exe
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\FodboldklubbenOpgave\FodboldklubbenOpgave\bin\Debug\netcoreapp3.1\FodboldklubbenOpgave.deps.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\FodboldklubbenOpgave\FodboldklubbenOpgave\bin\Debug\netcoreapp3.1\FodboldklubbenOpgave.runtimeconfig.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\FodboldklubbenOpgave\FodboldklubbenOpgave\bin\Debug\netcoreapp3.1\FodboldklubbenOpgave.runtimeconfig.dev.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\FodboldklubbenOpgave\FodboldklubbenOpgave\bin\Debug\netcoreapp3.1\FodboldklubbenOpgave.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\FodboldklubbenOpgave\FodboldklubbenOpgave\bin\Debug\netcoreapp3.1\FodboldklubbenOpgave.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\FodboldklubbenOpgave\FodboldklubbenOpgave\obj\Debug\netcoreapp3.1\FodboldklubbenOpgave.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\FodboldklubbenOpgave\FodboldklubbenOpgave\obj\Debug\netcoreapp3.1\FodboldklubbenOpgave.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\FodboldklubbenOpgave\FodboldklubbenOpgave\obj\Debug\netcoreapp3.1\FodboldklubbenOpgave.genruntimeconfig.cache

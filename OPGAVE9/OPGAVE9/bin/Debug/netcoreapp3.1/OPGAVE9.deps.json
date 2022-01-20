@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OPGAVE9/1.0.0": {
+        "runtime": {
+          "OPGAVE9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OPGAVE9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

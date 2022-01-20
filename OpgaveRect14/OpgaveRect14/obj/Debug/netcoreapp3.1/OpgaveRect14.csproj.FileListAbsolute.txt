@@ -1,0 +1,14 @@
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OpgaveRect14\OpgaveRect14\bin\Debug\netcoreapp3.1\OpgaveRect14.exe
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OpgaveRect14\OpgaveRect14\bin\Debug\netcoreapp3.1\OpgaveRect14.deps.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OpgaveRect14\OpgaveRect14\bin\Debug\netcoreapp3.1\OpgaveRect14.runtimeconfig.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OpgaveRect14\OpgaveRect14\bin\Debug\netcoreapp3.1\OpgaveRect14.runtimeconfig.dev.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OpgaveRect14\OpgaveRect14\bin\Debug\netcoreapp3.1\OpgaveRect14.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OpgaveRect14\OpgaveRect14\bin\Debug\netcoreapp3.1\OpgaveRect14.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OpgaveRect14\OpgaveRect14\obj\Debug\netcoreapp3.1\OpgaveRect14.csproj.AssemblyReference.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OpgaveRect14\OpgaveRect14\obj\Debug\netcoreapp3.1\OpgaveRect14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OpgaveRect14\OpgaveRect14\obj\Debug\netcoreapp3.1\OpgaveRect14.AssemblyInfoInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OpgaveRect14\OpgaveRect14\obj\Debug\netcoreapp3.1\OpgaveRect14.AssemblyInfo.cs
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OpgaveRect14\OpgaveRect14\obj\Debug\netcoreapp3.1\OpgaveRect14.csproj.CoreCompileInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OpgaveRect14\OpgaveRect14\obj\Debug\netcoreapp3.1\OpgaveRect14.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OpgaveRect14\OpgaveRect14\obj\Debug\netcoreapp3.1\OpgaveRect14.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OpgaveRect14\OpgaveRect14\obj\Debug\netcoreapp3.1\OpgaveRect14.genruntimeconfig.cache

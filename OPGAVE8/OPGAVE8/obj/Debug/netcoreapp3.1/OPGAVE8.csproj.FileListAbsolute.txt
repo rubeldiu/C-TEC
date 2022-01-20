@@ -1,0 +1,13 @@
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE8\OPGAVE8\bin\Debug\netcoreapp3.1\OPGAVE8.exe
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE8\OPGAVE8\bin\Debug\netcoreapp3.1\OPGAVE8.deps.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE8\OPGAVE8\bin\Debug\netcoreapp3.1\OPGAVE8.runtimeconfig.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE8\OPGAVE8\bin\Debug\netcoreapp3.1\OPGAVE8.runtimeconfig.dev.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE8\OPGAVE8\bin\Debug\netcoreapp3.1\OPGAVE8.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE8\OPGAVE8\bin\Debug\netcoreapp3.1\OPGAVE8.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE8\OPGAVE8\obj\Debug\netcoreapp3.1\OPGAVE8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE8\OPGAVE8\obj\Debug\netcoreapp3.1\OPGAVE8.AssemblyInfoInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE8\OPGAVE8\obj\Debug\netcoreapp3.1\OPGAVE8.AssemblyInfo.cs
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE8\OPGAVE8\obj\Debug\netcoreapp3.1\OPGAVE8.csproj.CoreCompileInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE8\OPGAVE8\obj\Debug\netcoreapp3.1\OPGAVE8.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE8\OPGAVE8\obj\Debug\netcoreapp3.1\OPGAVE8.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE8\OPGAVE8\obj\Debug\netcoreapp3.1\OPGAVE8.genruntimeconfig.cache

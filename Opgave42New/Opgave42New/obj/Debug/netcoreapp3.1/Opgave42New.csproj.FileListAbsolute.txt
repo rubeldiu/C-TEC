@@ -1,0 +1,13 @@
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Opgave42New\Opgave42New\bin\Debug\netcoreapp3.1\Opgave42New.exe
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Opgave42New\Opgave42New\bin\Debug\netcoreapp3.1\Opgave42New.deps.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Opgave42New\Opgave42New\bin\Debug\netcoreapp3.1\Opgave42New.runtimeconfig.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Opgave42New\Opgave42New\bin\Debug\netcoreapp3.1\Opgave42New.runtimeconfig.dev.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Opgave42New\Opgave42New\bin\Debug\netcoreapp3.1\Opgave42New.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Opgave42New\Opgave42New\bin\Debug\netcoreapp3.1\Opgave42New.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Opgave42New\Opgave42New\obj\Debug\netcoreapp3.1\Opgave42New.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Opgave42New\Opgave42New\obj\Debug\netcoreapp3.1\Opgave42New.AssemblyInfoInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Opgave42New\Opgave42New\obj\Debug\netcoreapp3.1\Opgave42New.AssemblyInfo.cs
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Opgave42New\Opgave42New\obj\Debug\netcoreapp3.1\Opgave42New.csproj.CoreCompileInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Opgave42New\Opgave42New\obj\Debug\netcoreapp3.1\Opgave42New.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Opgave42New\Opgave42New\obj\Debug\netcoreapp3.1\Opgave42New.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Opgave42New\Opgave42New\obj\Debug\netcoreapp3.1\Opgave42New.genruntimeconfig.cache

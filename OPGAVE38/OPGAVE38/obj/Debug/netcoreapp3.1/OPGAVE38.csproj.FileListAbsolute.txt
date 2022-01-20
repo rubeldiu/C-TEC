@@ -1,0 +1,14 @@
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE38\OPGAVE38\bin\Debug\netcoreapp3.1\OPGAVE38.exe
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE38\OPGAVE38\bin\Debug\netcoreapp3.1\OPGAVE38.deps.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE38\OPGAVE38\bin\Debug\netcoreapp3.1\OPGAVE38.runtimeconfig.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE38\OPGAVE38\bin\Debug\netcoreapp3.1\OPGAVE38.runtimeconfig.dev.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE38\OPGAVE38\bin\Debug\netcoreapp3.1\OPGAVE38.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE38\OPGAVE38\bin\Debug\netcoreapp3.1\OPGAVE38.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE38\OPGAVE38\obj\Debug\netcoreapp3.1\OPGAVE38.csproj.AssemblyReference.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE38\OPGAVE38\obj\Debug\netcoreapp3.1\OPGAVE38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE38\OPGAVE38\obj\Debug\netcoreapp3.1\OPGAVE38.AssemblyInfoInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE38\OPGAVE38\obj\Debug\netcoreapp3.1\OPGAVE38.AssemblyInfo.cs
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE38\OPGAVE38\obj\Debug\netcoreapp3.1\OPGAVE38.csproj.CoreCompileInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE38\OPGAVE38\obj\Debug\netcoreapp3.1\OPGAVE38.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE38\OPGAVE38\obj\Debug\netcoreapp3.1\OPGAVE38.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\OPGAVE38\OPGAVE38\obj\Debug\netcoreapp3.1\OPGAVE38.genruntimeconfig.cache
