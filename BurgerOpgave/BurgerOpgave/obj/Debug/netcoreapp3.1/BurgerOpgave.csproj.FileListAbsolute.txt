@@ -1,0 +1,14 @@
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\BurgerOpgave\BurgerOpgave\bin\Debug\netcoreapp3.1\BurgerOpgave.exe
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\BurgerOpgave\BurgerOpgave\bin\Debug\netcoreapp3.1\BurgerOpgave.deps.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\BurgerOpgave\BurgerOpgave\bin\Debug\netcoreapp3.1\BurgerOpgave.runtimeconfig.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\BurgerOpgave\BurgerOpgave\bin\Debug\netcoreapp3.1\BurgerOpgave.runtimeconfig.dev.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\BurgerOpgave\BurgerOpgave\bin\Debug\netcoreapp3.1\BurgerOpgave.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\BurgerOpgave\BurgerOpgave\bin\Debug\netcoreapp3.1\BurgerOpgave.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\BurgerOpgave\BurgerOpgave\obj\Debug\netcoreapp3.1\BurgerOpgave.csproj.AssemblyReference.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\BurgerOpgave\BurgerOpgave\obj\Debug\netcoreapp3.1\BurgerOpgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\BurgerOpgave\BurgerOpgave\obj\Debug\netcoreapp3.1\BurgerOpgave.AssemblyInfoInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\BurgerOpgave\BurgerOpgave\obj\Debug\netcoreapp3.1\BurgerOpgave.AssemblyInfo.cs
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\BurgerOpgave\BurgerOpgave\obj\Debug\netcoreapp3.1\BurgerOpgave.csproj.CoreCompileInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\BurgerOpgave\BurgerOpgave\obj\Debug\netcoreapp3.1\BurgerOpgave.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\BurgerOpgave\BurgerOpgave\obj\Debug\netcoreapp3.1\BurgerOpgave.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\BurgerOpgave\BurgerOpgave\obj\Debug\netcoreapp3.1\BurgerOpgave.genruntimeconfig.cache
