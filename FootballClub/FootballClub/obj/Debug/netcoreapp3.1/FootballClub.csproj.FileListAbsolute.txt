@@ -1,0 +1,14 @@
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\FootballClub\FootballClub\bin\Debug\netcoreapp3.1\FootballClub.exe
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\FootballClub\FootballClub\bin\Debug\netcoreapp3.1\FootballClub.deps.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\FootballClub\FootballClub\bin\Debug\netcoreapp3.1\FootballClub.runtimeconfig.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\FootballClub\FootballClub\bin\Debug\netcoreapp3.1\FootballClub.runtimeconfig.dev.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\FootballClub\FootballClub\bin\Debug\netcoreapp3.1\FootballClub.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\FootballClub\FootballClub\bin\Debug\netcoreapp3.1\FootballClub.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\FootballClub\FootballClub\obj\Debug\netcoreapp3.1\FootballClub.csproj.AssemblyReference.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\FootballClub\FootballClub\obj\Debug\netcoreapp3.1\FootballClub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\FootballClub\FootballClub\obj\Debug\netcoreapp3.1\FootballClub.AssemblyInfoInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\FootballClub\FootballClub\obj\Debug\netcoreapp3.1\FootballClub.AssemblyInfo.cs
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\FootballClub\FootballClub\obj\Debug\netcoreapp3.1\FootballClub.csproj.CoreCompileInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\FootballClub\FootballClub\obj\Debug\netcoreapp3.1\FootballClub.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\FootballClub\FootballClub\obj\Debug\netcoreapp3.1\FootballClub.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\FootballClub\FootballClub\obj\Debug\netcoreapp3.1\FootballClub.genruntimeconfig.cache

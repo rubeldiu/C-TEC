@@ -1,0 +1,14 @@
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Burgerrestauranten\Burgerrestauranten\obj\Debug\netcoreapp3.1\Burgerrestauranten.csproj.AssemblyReference.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Burgerrestauranten\Burgerrestauranten\obj\Debug\netcoreapp3.1\Burgerrestauranten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Burgerrestauranten\Burgerrestauranten\obj\Debug\netcoreapp3.1\Burgerrestauranten.AssemblyInfoInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Burgerrestauranten\Burgerrestauranten\obj\Debug\netcoreapp3.1\Burgerrestauranten.AssemblyInfo.cs
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Burgerrestauranten\Burgerrestauranten\obj\Debug\netcoreapp3.1\Burgerrestauranten.csproj.CoreCompileInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Burgerrestauranten\Burgerrestauranten\bin\Debug\netcoreapp3.1\Burgerrestauranten.exe
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Burgerrestauranten\Burgerrestauranten\bin\Debug\netcoreapp3.1\Burgerrestauranten.deps.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Burgerrestauranten\Burgerrestauranten\bin\Debug\netcoreapp3.1\Burgerrestauranten.runtimeconfig.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Burgerrestauranten\Burgerrestauranten\bin\Debug\netcoreapp3.1\Burgerrestauranten.runtimeconfig.dev.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Burgerrestauranten\Burgerrestauranten\bin\Debug\netcoreapp3.1\Burgerrestauranten.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Burgerrestauranten\Burgerrestauranten\bin\Debug\netcoreapp3.1\Burgerrestauranten.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Burgerrestauranten\Burgerrestauranten\obj\Debug\netcoreapp3.1\Burgerrestauranten.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Burgerrestauranten\Burgerrestauranten\obj\Debug\netcoreapp3.1\Burgerrestauranten.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\Burgerrestauranten\Burgerrestauranten\obj\Debug\netcoreapp3.1\Burgerrestauranten.genruntimeconfig.cache
