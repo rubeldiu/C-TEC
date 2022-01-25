@@ -11,3 +11,4 @@ C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\HenterForFil\HenterForFil\obj
 C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\HenterForFil\HenterForFil\obj\Debug\netcoreapp3.1\HenterForFil.dll
 C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\HenterForFil\HenterForFil\obj\Debug\netcoreapp3.1\HenterForFil.pdb
 C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\HenterForFil\HenterForFil\obj\Debug\netcoreapp3.1\HenterForFil.genruntimeconfig.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\HenterForFil\HenterForFil\obj\Debug\netcoreapp3.1\HenterForFil.csproj.AssemblyReference.cache
