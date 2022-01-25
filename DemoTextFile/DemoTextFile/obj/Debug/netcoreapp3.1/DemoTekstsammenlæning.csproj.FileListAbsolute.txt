@@ -1,0 +1,13 @@
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\bin\Debug\netcoreapp3.1\DemoTekstsammenlæning.exe
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\bin\Debug\netcoreapp3.1\DemoTekstsammenlæning.deps.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\bin\Debug\netcoreapp3.1\DemoTekstsammenlæning.runtimeconfig.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\bin\Debug\netcoreapp3.1\DemoTekstsammenlæning.runtimeconfig.dev.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\bin\Debug\netcoreapp3.1\DemoTekstsammenlæning.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\bin\Debug\netcoreapp3.1\DemoTekstsammenlæning.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\obj\Debug\netcoreapp3.1\DemoTekstsammenlæning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\obj\Debug\netcoreapp3.1\DemoTekstsammenlæning.AssemblyInfoInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\obj\Debug\netcoreapp3.1\DemoTekstsammenlæning.AssemblyInfo.cs
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\obj\Debug\netcoreapp3.1\DemoTekstsammenlæning.csproj.CoreCompileInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\obj\Debug\netcoreapp3.1\DemoTekstsammenlæning.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\obj\Debug\netcoreapp3.1\DemoTekstsammenlæning.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\obj\Debug\netcoreapp3.1\DemoTekstsammenlæning.genruntimeconfig.cache

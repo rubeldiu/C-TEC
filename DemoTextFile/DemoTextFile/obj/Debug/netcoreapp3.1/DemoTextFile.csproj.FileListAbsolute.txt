@@ -1,0 +1,14 @@
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\bin\Debug\netcoreapp3.1\DemoTextFile.exe
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\bin\Debug\netcoreapp3.1\DemoTextFile.deps.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\bin\Debug\netcoreapp3.1\DemoTextFile.runtimeconfig.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\bin\Debug\netcoreapp3.1\DemoTextFile.runtimeconfig.dev.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\bin\Debug\netcoreapp3.1\DemoTextFile.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\bin\Debug\netcoreapp3.1\DemoTextFile.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\obj\Debug\netcoreapp3.1\DemoTextFile.csproj.AssemblyReference.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\obj\Debug\netcoreapp3.1\DemoTextFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\obj\Debug\netcoreapp3.1\DemoTextFile.AssemblyInfoInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\obj\Debug\netcoreapp3.1\DemoTextFile.AssemblyInfo.cs
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\obj\Debug\netcoreapp3.1\DemoTextFile.csproj.CoreCompileInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\obj\Debug\netcoreapp3.1\DemoTextFile.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\obj\Debug\netcoreapp3.1\DemoTextFile.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\obj\Debug\netcoreapp3.1\DemoTextFile.genruntimeconfig.cache

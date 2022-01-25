@@ -1,0 +1,14 @@
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\SkriveTilFilD12\SkriveTilFilD12\bin\Debug\netcoreapp3.1\SkriveTilFilD12.exe
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\SkriveTilFilD12\SkriveTilFilD12\bin\Debug\netcoreapp3.1\SkriveTilFilD12.deps.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\SkriveTilFilD12\SkriveTilFilD12\bin\Debug\netcoreapp3.1\SkriveTilFilD12.runtimeconfig.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\SkriveTilFilD12\SkriveTilFilD12\bin\Debug\netcoreapp3.1\SkriveTilFilD12.runtimeconfig.dev.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\SkriveTilFilD12\SkriveTilFilD12\bin\Debug\netcoreapp3.1\SkriveTilFilD12.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\SkriveTilFilD12\SkriveTilFilD12\bin\Debug\netcoreapp3.1\SkriveTilFilD12.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\SkriveTilFilD12\SkriveTilFilD12\obj\Debug\netcoreapp3.1\SkriveTilFilD12.csproj.AssemblyReference.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\SkriveTilFilD12\SkriveTilFilD12\obj\Debug\netcoreapp3.1\SkriveTilFilD12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\SkriveTilFilD12\SkriveTilFilD12\obj\Debug\netcoreapp3.1\SkriveTilFilD12.AssemblyInfoInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\SkriveTilFilD12\SkriveTilFilD12\obj\Debug\netcoreapp3.1\SkriveTilFilD12.AssemblyInfo.cs
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\SkriveTilFilD12\SkriveTilFilD12\obj\Debug\netcoreapp3.1\SkriveTilFilD12.csproj.CoreCompileInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\SkriveTilFilD12\SkriveTilFilD12\obj\Debug\netcoreapp3.1\SkriveTilFilD12.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\SkriveTilFilD12\SkriveTilFilD12\obj\Debug\netcoreapp3.1\SkriveTilFilD12.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\SkriveTilFilD12\SkriveTilFilD12\obj\Debug\netcoreapp3.1\SkriveTilFilD12.genruntimeconfig.cache

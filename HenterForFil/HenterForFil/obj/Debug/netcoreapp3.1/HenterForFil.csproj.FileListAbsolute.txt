@@ -1,0 +1,13 @@
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\HenterForFil\HenterForFil\bin\Debug\netcoreapp3.1\HenterForFil.exe
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\HenterForFil\HenterForFil\bin\Debug\netcoreapp3.1\HenterForFil.deps.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\HenterForFil\HenterForFil\bin\Debug\netcoreapp3.1\HenterForFil.runtimeconfig.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\HenterForFil\HenterForFil\bin\Debug\netcoreapp3.1\HenterForFil.runtimeconfig.dev.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\HenterForFil\HenterForFil\bin\Debug\netcoreapp3.1\HenterForFil.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\HenterForFil\HenterForFil\bin\Debug\netcoreapp3.1\HenterForFil.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\HenterForFil\HenterForFil\obj\Debug\netcoreapp3.1\HenterForFil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\HenterForFil\HenterForFil\obj\Debug\netcoreapp3.1\HenterForFil.AssemblyInfoInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\HenterForFil\HenterForFil\obj\Debug\netcoreapp3.1\HenterForFil.AssemblyInfo.cs
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\HenterForFil\HenterForFil\obj\Debug\netcoreapp3.1\HenterForFil.csproj.CoreCompileInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\HenterForFil\HenterForFil\obj\Debug\netcoreapp3.1\HenterForFil.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\HenterForFil\HenterForFil\obj\Debug\netcoreapp3.1\HenterForFil.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\HenterForFil\HenterForFil\obj\Debug\netcoreapp3.1\HenterForFil.genruntimeconfig.cache
