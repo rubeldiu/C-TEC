@@ -1,0 +1,14 @@
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TestPraktisk\TestPraktisk\bin\Debug\netcoreapp3.1\TestPraktisk.exe
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TestPraktisk\TestPraktisk\bin\Debug\netcoreapp3.1\TestPraktisk.deps.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TestPraktisk\TestPraktisk\bin\Debug\netcoreapp3.1\TestPraktisk.runtimeconfig.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TestPraktisk\TestPraktisk\bin\Debug\netcoreapp3.1\TestPraktisk.runtimeconfig.dev.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TestPraktisk\TestPraktisk\bin\Debug\netcoreapp3.1\TestPraktisk.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TestPraktisk\TestPraktisk\bin\Debug\netcoreapp3.1\TestPraktisk.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TestPraktisk\TestPraktisk\obj\Debug\netcoreapp3.1\TestPraktisk.csproj.AssemblyReference.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TestPraktisk\TestPraktisk\obj\Debug\netcoreapp3.1\TestPraktisk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TestPraktisk\TestPraktisk\obj\Debug\netcoreapp3.1\TestPraktisk.AssemblyInfoInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TestPraktisk\TestPraktisk\obj\Debug\netcoreapp3.1\TestPraktisk.AssemblyInfo.cs
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TestPraktisk\TestPraktisk\obj\Debug\netcoreapp3.1\TestPraktisk.csproj.CoreCompileInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TestPraktisk\TestPraktisk\obj\Debug\netcoreapp3.1\TestPraktisk.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TestPraktisk\TestPraktisk\obj\Debug\netcoreapp3.1\TestPraktisk.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\TestPraktisk\TestPraktisk\obj\Debug\netcoreapp3.1\TestPraktisk.genruntimeconfig.cache

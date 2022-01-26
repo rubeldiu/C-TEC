@@ -11,3 +11,4 @@ C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\obj
 C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\obj\Debug\netcoreapp3.1\DemoTekstsammenlæning.dll
 C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\obj\Debug\netcoreapp3.1\DemoTekstsammenlæning.pdb
 C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\obj\Debug\netcoreapp3.1\DemoTekstsammenlæning.genruntimeconfig.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\DemoTextFile\DemoTextFile\obj\Debug\netcoreapp3.1\DemoTekstsammenlæning.csproj.AssemblyReference.cache

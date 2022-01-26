@@ -10,6 +10,7 @@ namespace HenterForFil
             //hente fra file
             string findtekts;
             int tæller = 0;
+           
             Console.Write("Indtast hvad du vil søge efter : ");
             findtekts = Console.ReadLine();
 
