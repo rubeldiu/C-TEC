@@ -1,0 +1,14 @@
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\GF2ProjectProgramming\GF2ProjectProgramming\bin\Debug\netcoreapp3.1\GF2ProjectProgramming.exe
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\GF2ProjectProgramming\GF2ProjectProgramming\bin\Debug\netcoreapp3.1\GF2ProjectProgramming.deps.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\GF2ProjectProgramming\GF2ProjectProgramming\bin\Debug\netcoreapp3.1\GF2ProjectProgramming.runtimeconfig.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\GF2ProjectProgramming\GF2ProjectProgramming\bin\Debug\netcoreapp3.1\GF2ProjectProgramming.runtimeconfig.dev.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\GF2ProjectProgramming\GF2ProjectProgramming\bin\Debug\netcoreapp3.1\GF2ProjectProgramming.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\GF2ProjectProgramming\GF2ProjectProgramming\bin\Debug\netcoreapp3.1\GF2ProjectProgramming.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\GF2ProjectProgramming\GF2ProjectProgramming\obj\Debug\netcoreapp3.1\GF2ProjectProgramming.csproj.AssemblyReference.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\GF2ProjectProgramming\GF2ProjectProgramming\obj\Debug\netcoreapp3.1\GF2ProjectProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\GF2ProjectProgramming\GF2ProjectProgramming\obj\Debug\netcoreapp3.1\GF2ProjectProgramming.AssemblyInfoInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\GF2ProjectProgramming\GF2ProjectProgramming\obj\Debug\netcoreapp3.1\GF2ProjectProgramming.AssemblyInfo.cs
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\GF2ProjectProgramming\GF2ProjectProgramming\obj\Debug\netcoreapp3.1\GF2ProjectProgramming.csproj.CoreCompileInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\GF2ProjectProgramming\GF2ProjectProgramming\obj\Debug\netcoreapp3.1\GF2ProjectProgramming.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\GF2ProjectProgramming\GF2ProjectProgramming\obj\Debug\netcoreapp3.1\GF2ProjectProgramming.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\GF2ProjectProgramming\GF2ProjectProgramming\obj\Debug\netcoreapp3.1\GF2ProjectProgramming.genruntimeconfig.cache

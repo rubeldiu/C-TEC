@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GF2ProjectProgramming/1.0.0": {
+        "runtime": {
+          "GF2ProjectProgramming.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GF2ProjectProgramming/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\ProjectProgramming\ProjectProgramming\bin\Debug\netcoreapp3.1\ProjectProgramming.exe
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\ProjectProgramming\ProjectProgramming\bin\Debug\netcoreapp3.1\ProjectProgramming.deps.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\ProjectProgramming\ProjectProgramming\bin\Debug\netcoreapp3.1\ProjectProgramming.runtimeconfig.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\ProjectProgramming\ProjectProgramming\bin\Debug\netcoreapp3.1\ProjectProgramming.runtimeconfig.dev.json
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\ProjectProgramming\ProjectProgramming\bin\Debug\netcoreapp3.1\ProjectProgramming.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\ProjectProgramming\ProjectProgramming\bin\Debug\netcoreapp3.1\ProjectProgramming.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\ProjectProgramming\ProjectProgramming\obj\Debug\netcoreapp3.1\ProjectProgramming.csproj.AssemblyReference.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\ProjectProgramming\ProjectProgramming\obj\Debug\netcoreapp3.1\ProjectProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\ProjectProgramming\ProjectProgramming\obj\Debug\netcoreapp3.1\ProjectProgramming.AssemblyInfoInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\ProjectProgramming\ProjectProgramming\obj\Debug\netcoreapp3.1\ProjectProgramming.AssemblyInfo.cs
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\ProjectProgramming\ProjectProgramming\obj\Debug\netcoreapp3.1\ProjectProgramming.csproj.CoreCompileInputs.cache
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\ProjectProgramming\ProjectProgramming\obj\Debug\netcoreapp3.1\ProjectProgramming.dll
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\ProjectProgramming\ProjectProgramming\obj\Debug\netcoreapp3.1\ProjectProgramming.pdb
+C:\Users\shoha\OneDrive\Desktop\TEC\C#\Programming\ProjectProgramming\ProjectProgramming\obj\Debug\netcoreapp3.1\ProjectProgramming.genruntimeconfig.cache
